@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1772.028" height="1770.498" viewBox="0 0 1772.028 1770.498">
+  <defs>
+    <filter id="Rectangle_green" x="0" y="0" width="1772.028" height="1770.498" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_green)">
+    <rect id="Rectangle_green-2" data-name="Rectangle green" width="1225" height="1256" transform="translate(927.58 6) rotate(47)" fill="#67b46f"/>
+  </g>
+</svg>
